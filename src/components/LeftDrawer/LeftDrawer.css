@@ -1,0 +1,47 @@
+.logo {
+    cursor: pointer;
+    font-size: 100%;
+    color: black;
+    line-height: 50px;
+    font-weight: normal;
+    background-color: #3a3a3a;
+    padding-left: 15px;
+    height: 60px;
+    background-image: url('../../public/img/logo.png');
+    background-size: 55% 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 10px;
+}
+.drawerMenu{
+    margin-top: 1em;
+}
+.drawerMenuItem {
+    color: #ede294;
+    font-size: 100%;
+}
+
+.avatar .headerDiv {
+    padding: 15px 0 20px 15px;
+    height: 45px;
+}
+.avatar .icon {
+
+    float: left;
+    display: block;
+    margin-right: 15px;
+
+    box-shadow: 0px 0px 0px 8px rgba(0, 0, 0, 0.2);
+}
+.avatar .span {
+    padding-top: 12px;
+    display: block;
+    color: #e1e8ed;
+    font-weight: 300;
+
+    text-shadow: 1px 1px #444;
+}
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}

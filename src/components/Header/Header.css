@@ -1,0 +1,20 @@
+.headerAppBar {
+    position: fixed;
+    top: 0;
+    overflow: hidden;
+    margin-top: -0.7em;
+    max-height: 57px;
+    margin-left: 2em;
+}
+.headerDiv{
+    margin-left: 15em;
+    margin-right: 2em;
+
+}
+.headerMenuButton {
+    padding-left: 18px;
+    padding-top: 6px;
+}
+
+.headerButtonDeco{
+}
